@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <product>
+    <state>1</state>
+    <id_manufacturer>0</id_manufacturer>
+    <id_supplier>0</id_supplier>
+    <id_category_default>2</id_category_default>
+    <id_shop_default>1</id_shop_default>
+    <id_tax_rules_group>1</id_tax_rules_group>
+    <reference>TSH-001</reference>
+    <price>19.990000</price>
+    <wholesale_price>0.000000</wholesale_price>
+    <active>1</active>
+    <available_for_order>1</available_for_order>
+    <show_price>1</show_price>
+    <online_only>0</online_only>
+    <condition>new</condition>
+    <visibility>both</visibility>
+    <minimal_quantity>1</minimal_quantity>
+    <show_condition>0</show_condition>
+    <indexed>1</indexed>
+    <is_virtual>0</is_virtual>
+    <cache_is_pack>0</cache_is_pack>
+    <advanced_stock_management>0</advanced_stock_management>
+    <additional_delivery_times>0</additional_delivery_times>
+    <width>0.000000</width>
+    <height>0.000000</height>
+    <depth>0.000000</depth>
+    <weight>0.000000</weight>
+    <ecotax>0.000000</ecotax>
+    <additional_shipping_cost>0.000000</additional_shipping_cost>
+    <name>
+      <language id="1">T-Shirt Classic</language>
+      <language id="2">T-Shirt Classic</language>
+    </name>
+    <description>
+      <language id="1">Un t-shirt classique de qualite superieure, disponible en plusieurs tailles.</language>
+      <language id="2">A classic high quality t-shirt available in multiple sizes.</language>
+    </description>
+    <description_short>
+      <language id="1">T-shirt classique unisexe.</language>
+      <language id="2">Classic unisex t-shirt.</language>
+    </description_short>
+    <link_rewrite>
+      <language id="1">t-shirt-classic</language>
+      <language id="2">t-shirt-classic</language>
+    </link_rewrite>
+    <meta_title>
+      <language id="1">T-Shirt Classic</language>
+      <language id="2">T-Shirt Classic</language>
+    </meta_title>
+    <meta_description>
+      <language id="1">Achetez notre t-shirt classique de qualite superieure.</language>
+      <language id="2">Buy our classic high quality t-shirt.</language>
+    </meta_description>
+    <meta_keywords>
+      <language id="1">t-shirt, classique, vetement</language>
+      <language id="2">t-shirt, classic, clothing</language>
+    </meta_keywords>
+    <available_now>
+      <language id="1">En stock</language>
+      <language id="2">In stock</language>
+    </available_now>
+    <available_later>
+      <language id="1">Disponible sous 3-5 jours</language>
+      <language id="2">Available in 3-5 days</language>
+    </available_later>
+    <delivery_in_stock>
+      <language id="1">Livraison en 2-3 jours</language>
+      <language id="2">Delivery in 2-3 days</language>
+    </delivery_in_stock>
+    <delivery_out_stock>
+      <language id="1">Livraison en 5-7 jours</language>
+      <language id="2">Delivery in 5-7 days</language>
+    </delivery_out_stock>
+  </product>
+
+  <product>
+    <state>1</state>
+    <id_manufacturer>0</id_manufacturer>
+    <id_supplier>0</id_supplier>
+    <id_category_default>2</id_category_default>
+    <id_shop_default>1</id_shop_default>
+    <id_tax_rules_group>1</id_tax_rules_group>
+    <reference>PNT-001</reference>
+    <price>49.990000</price>
+    <wholesale_price>0.000000</wholesale_price>
+    <active>1</active>
+    <available_for_order>1</available_for_order>
+    <show_price>1</show_price>
+    <online_only>0</online_only>
+    <condition>new</condition>
+    <visibility>both</visibility>
+    <minimal_quantity>1</minimal_quantity>
+    <show_condition>0</show_condition>
+    <indexed>1</indexed>
+    <is_virtual>0</is_virtual>
+    <cache_is_pack>0</cache_is_pack>
+    <advanced_stock_management>0</advanced_stock_management>
+    <additional_delivery_times>0</additional_delivery_times>
+    <width>0.000000</width>
+    <height>0.000000</height>
+    <depth>0.000000</depth>
+    <weight>0.000000</weight>
+    <ecotax>0.000000</ecotax>
+    <additional_shipping_cost>0.000000</additional_shipping_cost>
+    <name>
+      <language id="1">Pantalon Slim</language>
+      <language id="2">Slim Pants</language>
+    </name>
+    <description>
+      <language id="1">Pantalon slim fit coupe moderne, confortable et elegant.</language>
+      <language id="2">Modern slim fit pants, comfortable and elegant.</language>
+    </description>
+    <description_short>
+      <language id="1">Pantalon slim moderne.</language>
+      <language id="2">Modern slim pants.</language>
+    </description_short>
+    <link_rewrite>
+      <language id="1">pantalon-slim</language>
+      <language id="2">slim-pants</language>
+    </link_rewrite>
+    <meta_title>
+      <language id="1">Pantalon Slim</language>
+      <language id="2">Slim Pants</language>
+    </meta_title>
+    <meta_description>
+      <language id="1">Achetez notre pantalon slim moderne et confortable.</language>
+      <language id="2">Buy our modern and comfortable slim pants.</language>
+    </meta_description>
+    <meta_keywords>
+      <language id="1">pantalon, slim, mode</language>
+      <language id="2">pants, slim, fashion</language>
+    </meta_keywords>
+    <available_now>
+      <language id="1">En stock</language>
+      <language id="2">In stock</language>
+    </available_now>
+    <available_later>
+      <language id="1">Disponible sous 3-5 jours</language>
+      <language id="2">Available in 3-5 days</language>
+    </available_later>
+    <delivery_in_stock>
+      <language id="1">Livraison en 2-3 jours</language>
+      <language id="2">Delivery in 2-3 days</language>
+    </delivery_in_stock>
+    <delivery_out_stock>
+      <language id="1">Livraison en 5-7 jours</language>
+      <language id="2">Delivery in 5-7 days</language>
+    </delivery_out_stock>
+  </product>
+
+  <product>
+    <state>1</state>
+    <id_manufacturer>0</id_manufacturer>
+    <id_supplier>0</id_supplier>
+    <id_category_default>2</id_category_default>
+    <id_shop_default>1</id_shop_default>
+    <id_tax_rules_group>1</id_tax_rules_group>
+    <reference>VJK-001</reference>
+    <price>129.990000</price>
+    <wholesale_price>0.000000</wholesale_price>
+    <active>1</active>
+    <available_for_order>1</available_for_order>
+    <show_price>1</show_price>
+    <online_only>0</online_only>
+    <condition>new</condition>
+    <visibility>both</visibility>
+    <minimal_quantity>1</minimal_quantity>
+    <show_condition>0</show_condition>
+    <indexed>1</indexed>
+    <is_virtual>0</is_virtual>
+    <cache_is_pack>0</cache_is_pack>
+    <advanced_stock_management>0</advanced_stock_management>
+    <additional_delivery_times>0</additional_delivery_times>
+    <width>0.000000</width>
+    <height>0.000000</height>
+    <depth>0.000000</depth>
+    <weight>0.000000</weight>
+    <ecotax>0.000000</ecotax>
+    <additional_shipping_cost>0.000000</additional_shipping_cost>
+    <name>
+      <language id="1">Veste en Cuir</language>
+      <language id="2">Leather Jacket</language>
+    </name>
+    <description>
+      <language id="1">Veste en cuir veritable, style biker, robuste et elegante.</language>
+      <language id="2">Genuine leather jacket, biker style, robust and elegant.</language>
+    </description>
+    <description_short>
+      <language id="1">Veste en cuir biker.</language>
+      <language id="2">Biker leather jacket.</language>
+    </description_short>
+    <link_rewrite>
+      <language id="1">veste-en-cuir</language>
+      <language id="2">leather-jacket</language>
+    </link_rewrite>
+    <meta_title>
+      <language id="1">Veste en Cuir</language>
+      <language id="2">Leather Jacket</language>
+    </meta_title>
+    <meta_description>
+      <language id="1">Achetez notre veste en cuir veritable style biker.</language>
+      <language id="2">Buy our genuine leather biker jacket.</language>
+    </meta_description>
+    <meta_keywords>
+      <language id="1">veste, cuir, biker, mode</language>
+      <language id="2">jacket, leather, biker, fashion</language>
+    </meta_keywords>
+    <available_now>
+      <language id="1">En stock</language>
+      <language id="2">In stock</language>
+    </available_now>
+    <available_later>
+      <language id="1">Disponible sous 3-5 jours</language>
+      <language id="2">Available in 3-5 days</language>
+    </available_later>
+    <delivery_in_stock>
+      <language id="1">Livraison en 2-3 jours</language>
+      <language id="2">Delivery in 2-3 days</language>
+    </delivery_in_stock>
+    <delivery_out_stock>
+      <language id="1">Livraison en 5-7 jours</language>
+      <language id="2">Delivery in 5-7 days</language>
+    </delivery_out_stock>
+  </product>
+
+  <product>
+    <state>1</state>
+    <id_manufacturer>0</id_manufacturer>
+    <id_supplier>0</id_supplier>
+    <id_category_default>2</id_category_default>
+    <id_shop_default>1</id_shop_default>
+    <id_tax_rules_group>1</id_tax_rules_group>
+    <reference>SNK-001</reference>
+    <price>79.990000</price>
+    <wholesale_price>0.000000</wholesale_price>
+    <active>1</active>
+    <available_for_order>1</available_for_order>
+    <show_price>1</show_price>
+    <online_only>0</online_only>
+    <condition>new</condition>
+    <visibility>both</visibility>
+    <minimal_quantity>1</minimal_quantity>
+    <show_condition>0</show_condition>
+    <indexed>1</indexed>
+    <is_virtual>0</is_virtual>
+    <cache_is_pack>0</cache_is_pack>
+    <advanced_stock_management>0</advanced_stock_management>
+    <additional_delivery_times>0</additional_delivery_times>
+    <width>0.000000</width>
+    <height>0.000000</height>
+    <depth>0.000000</depth>
+    <weight>0.500000</weight>
+    <ecotax>0.000000</ecotax>
+    <additional_shipping_cost>0.000000</additional_shipping_cost>
+    <name>
+      <language id="1">Sneakers Urban</language>
+      <language id="2">Urban Sneakers</language>
+    </name>
+    <description>
+      <language id="1">Sneakers urbaines confortables, semelle souple et design moderne.</language>
+      <language id="2">Comfortable urban sneakers with soft sole and modern design.</language>
+    </description>
+    <description_short>
+      <language id="1">Sneakers urbaines confortables.</language>
+      <language id="2">Comfortable urban sneakers.</language>
+    </description_short>
+    <link_rewrite>
+      <language id="1">sneakers-urban</language>
+      <language id="2">urban-sneakers</language>
+    </link_rewrite>
+    <meta_title>
+      <language id="1">Sneakers Urban</language>
+      <language id="2">Urban Sneakers</language>
+    </meta_title>
+    <meta_description>
+      <language id="1">Achetez nos sneakers urbaines confortables.</language>
+      <language id="2">Buy our comfortable urban sneakers.</language>
+    </meta_description>
+    <meta_keywords>
+      <language id="1">sneakers, chaussures, urban, sport</language>
+      <language id="2">sneakers, shoes, urban, sport</language>
+    </meta_keywords>
+    <available_now>
+      <language id="1">En stock</language>
+      <language id="2">In stock</language>
+    </available_now>
+    <available_later>
+      <language id="1">Disponible sous 3-5 jours</language>
+      <language id="2">Available in 3-5 days</language>
+    </available_later>
+    <delivery_in_stock>
+      <language id="1">Livraison en 2-3 jours</language>
+      <language id="2">Delivery in 2-3 days</language>
+    </delivery_in_stock>
+    <delivery_out_stock>
+      <language id="1">Livraison en 5-7 jours</language>
+      <language id="2">Delivery in 5-7 days</language>
+    </delivery_out_stock>
+  </product>
+
+  <product>
+    <state>1</state>
+    <id_manufacturer>0</id_manufacturer>
+    <id_supplier>0</id_supplier>
+    <id_category_default>2</id_category_default>
+    <id_shop_default>1</id_shop_default>
+    <id_tax_rules_group>1</id_tax_rules_group>
+    <reference>SAC-001</reference>
+    <price>59.990000</price>
+    <wholesale_price>0.000000</wholesale_price>
+    <active>1</active>
+    <available_for_order>1</available_for_order>
+    <show_price>1</show_price>
+    <online_only>0</online_only>
+    <condition>new</condition>
+    <visibility>both</visibility>
+    <minimal_quantity>1</minimal_quantity>
+    <show_condition>0</show_condition>
+    <indexed>1</indexed>
+    <is_virtual>0</is_virtual>
+    <cache_is_pack>0</cache_is_pack>
+    <advanced_stock_management>0</advanced_stock_management>
+    <additional_delivery_times>0</additional_delivery_times>
+    <width>0.000000</width>
+    <height>0.000000</height>
+    <depth>0.000000</depth>
+    <weight>0.800000</weight>
+    <ecotax>0.000000</ecotax>
+    <additional_shipping_cost>0.000000</additional_shipping_cost>
+    <name>
+      <language id="1">Sac a Dos Urbain</language>
+      <language id="2">Urban Backpack</language>
+    </name>
+    <description>
+      <language id="1">Sac a dos urbain spacieux, compartiments multiples, ideal pour le quotidien.</language>
+      <language id="2">Spacious urban backpack with multiple compartments, ideal for daily use.</language>
+    </description>
+    <description_short>
+      <language id="1">Sac a dos urbain spacieux.</language>
+      <language id="2">Spacious urban backpack.</language>
+    </description_short>
+    <link_rewrite>
+      <language id="1">sac-a-dos-urbain</language>
+      <language id="2">urban-backpack</language>
+    </link_rewrite>
+    <meta_title>
+      <language id="1">Sac a Dos Urbain</language>
+      <language id="2">Urban Backpack</language>
+    </meta_title>
+    <meta_description>
+      <language id="1">Achetez notre sac a dos urbain spacieux.</language>
+      <language id="2">Buy our spacious urban backpack.</language>
+    </meta_description>
+    <meta_keywords>
+      <language id="1">sac, dos, urbain, quotidien</language>
+      <language id="2">bag, backpack, urban, daily</language>
+    </meta_keywords>
+    <available_now>
+      <language id="1">En stock</language>
+      <language id="2">In stock</language>
+    </available_now>
+    <available_later>
+      <language id="1">Disponible sous 3-5 jours</language>
+      <language id="2">Available in 3-5 days</language>
+    </available_later>
+    <delivery_in_stock>
+      <language id="1">Livraison en 2-3 jours</language>
+      <language id="2">Delivery in 2-3 days</language>
+    </delivery_in_stock>
+    <delivery_out_stock>
+      <language id="1">Livraison en 5-7 jours</language>
+      <language id="2">Delivery in 5-7 days</language>
+    </delivery_out_stock>
+  </product>
+
+</prestashop>

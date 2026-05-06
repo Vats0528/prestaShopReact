@@ -1,0 +1,11 @@
+reference,name,description,description_short,price,wholesale_price,weight,id_category_default,id_manufacturer,id_supplier,id_shop_default,id_tax_rules_group,state,active,available_for_order,show_price,online_only,condition,visibility,minimal_quantity,show_condition,indexed,is_virtual,cache_is_pack,advanced_stock_management,additional_delivery_times,width,height,depth,ecotax,additional_shipping_cost
+TSH-001,T-Shirt Classic,Un t-shirt classique de qualité supérieure disponible en plusieurs tailles,T-shirt classique unisexe,19.99,10.00,0.2,2,0,0,1,1,1,1,1,1,0,new,both,1,0,1,0,0,0,0,0,0,0,0,0
+TSH-002,T-Shirt Premium,T-shirt premium avec impression personnalisée,T-shirt premium pour événements,29.99,15.00,0.25,2,0,0,1,1,1,1,1,1,0,new,both,1,0,1,0,0,0,0,0,0,0,0,0
+SHO-001,Shorts Sport,Short de sport avec technologie transpirante,Short confortable pour le sport,24.99,12.50,0.15,2,0,0,1,1,1,1,1,1,0,new,both,1,0,1,0,0,0,0,0,0,0,0,0
+CAP-001,Casquette Logo,Casquette avec logo brodé,Casquette en coton,14.99,7.50,0.1,2,0,0,1,1,1,1,1,1,0,new,both,1,0,1,0,0,0,0,0,0,0,0,0
+BLZ-001,Blazer Business,Veste professionnelle en laine mélangée,Blazer classique pour le bureau,89.99,45.00,0.8,2,0,0,1,1,1,1,1,1,0,new,both,1,0,1,0,0,0,0,0,0,0,0,0
+SWE-001,Sweater Confort,Pull chaud et confortable pour l'hiver,Sweater en laine douce,39.99,20.00,0.5,2,0,0,1,1,1,1,1,1,0,new,both,1,0,1,0,0,0,0,0,0,0,0,0
+JEA-001,Jeans Slim,Jean slim fit très confortable,Jean noir slim classic,49.99,25.00,0.6,2,0,0,1,1,1,1,1,1,0,new,both,1,0,1,0,0,0,0,0,0,0,0,0
+JAC-001,Jacket Denim,Veste en denim vintage,Denim classique intemporel,59.99,30.00,0.9,2,0,0,1,1,1,1,1,1,0,new,both,1,0,1,0,0,0,0,0,0,0,0,0
+HAT-001,Hat Winter,Bonnet chaud pour l'hiver,Bonnet en acrylique,12.99,6.50,0.05,2,0,0,1,1,1,1,1,1,0,new,both,1,0,1,0,0,0,0,0,0,0,0,0
+TIE-001,Cravate Silk,Cravate en soie pure,Cravate élégante pour occasions formelles,34.99,17.50,0.05,2,0,0,1,1,1,1,1,1,0,new,both,1,0,1,0,0,0,0,0,0,0,0,0
