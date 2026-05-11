@@ -1,0 +1,19 @@
+src/
+  api/prestashopClient.js   (existant)
+  utils/csvUtils.js         (existant)
+  context/
+    AuthContext.jsx          — login/protection routes
+    CartContext.jsx          — panier global
+  pages/
+    admin/
+      LoginPage.jsx
+      DashboardPage.jsx      — reset données
+      ImportPage.jsx         (refonte avec 3 CSV + 1 ZIP)
+      OrdersAdminPage.jsx    — commandes + changement état
+    front/
+      HomePage.jsx           — catalogue produits
+      ProductPage.jsx        — fiche produit
+      CartPage.jsx           — panier
+      CheckoutPage.jsx       — validation commande
+      MyOrdersPage.jsx       — mes commandes
+  App.jsx                    — routing + guards
